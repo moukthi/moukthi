@@ -1,0 +1,48 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"NARSIMPALLI MAHIDHAR REDDY",
+			"email":"mahisvit123@gmail.com",
+			"education":[
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SRI GAYATHRI COLLEGE",
+					"data":["97%","2014-16"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SRI GAYATHRI COLLEGE",
+					"data":["97%","2014-16"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SRI GAYATHRI COLLEGE",
+					"data":["97%","2014-16"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"NARSIMPALLI MAHIDHAR REDDY",
+			"email":"mahisvit123@gmail.com",
+			"education":[
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SRI GAYATHRI COLLEGE",
+					"data":["97%","2014-16"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SRI GAYATHRI COLLEGE",
+					"data":["97%","2014-16"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"SRI GAYATHRI COLLEGE",
+					"data":["97%","2014-16"]
+				}
+			]
+		}
+	]
+}
